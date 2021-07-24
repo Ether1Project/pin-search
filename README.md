@@ -9,7 +9,7 @@ npm install
 
 ### Step 2
 ```
-Change pinToSearch variable to desired pin hash
+Change pinToSearch variable (located at top of pinSearch.js) to desired pin hash
 ```
 
 ### Step 3
