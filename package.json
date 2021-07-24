@@ -1,0 +1,14 @@
+{
+  "name": "pinsearch",
+  "version": "1.0.0",
+  "description": "Search Etho Protocol Network For Pin Contract",
+  "main": "pinSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.4.0"
+  }
+}
